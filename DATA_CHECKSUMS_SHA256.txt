@@ -1,0 +1,2 @@
+# Fill in SHA256 hashes for each uncompressed data CSV after choosing the public data release.
+# Example: sha256sum Lung_miRNA_Preprocessed_Datasets/*.csv
